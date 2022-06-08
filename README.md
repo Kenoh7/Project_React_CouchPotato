@@ -9,7 +9,7 @@
 - React
 - JSON
 - CSS
-- MySQL
+- Mongoose
 - Mongodb
 - node.js
 - express.js

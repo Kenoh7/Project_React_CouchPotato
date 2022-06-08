@@ -3,6 +3,21 @@
 
 <p> A extension of the FoodieSpot project, created for users to upload their recipes as well as search and favorite recipes.<p/>
 
+<h2> Built With </h2>
+<br/>
+
+- React
+- JSON
+- CSS
+- MySQL
+- Mongodb
+- node.js
+- express.js
+- Axios
+  - API Weather(Open Meteo)
+
+<br/>
+
 <h1 align="center"> Demo </h1>
 <h3> --> Home Page <-- </h3>
   
@@ -19,16 +34,3 @@
 <h3> --> Favorites Page <-- </h3>
   
   ![favorite](https://user-images.githubusercontent.com/97468788/172727474-d02280e2-6d9c-41bf-8846-cc1bc182257e.png)
-
-<h2> Built With </h2>
-<br/>
-
-- React
-- JSON
-- CSS
-- MySQL
-- Mongodb
-- node.js
-- express.js
-- Axios
-  - API Weather(Open Meteo)

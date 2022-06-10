@@ -21,16 +21,16 @@
 <h1 align="center"> Demo </h1>
 <h3> --> Home Page <-- </h3>
   
-  ![home](https://user-images.githubusercontent.com/97468788/172727445-d282d542-6b5d-4864-9dad-0a0544f9c17f.png)
+  ![home](https://user-images.githubusercontent.com/97468788/172998588-93cdd90f-9078-4dc6-ac09-839f3e485e87.png)
 
 <h3> --> Result Page <-- </h3>
   
-  ![result](https://user-images.githubusercontent.com/97468788/172727452-ffd5e37b-edc0-4209-aa12-2d52b46c997a.png)
+  ![result](https://user-images.githubusercontent.com/97468788/172998594-ac82786a-86fc-47fa-a94f-7c870a41f186.png)
 
 <h3> --> View Page <-- </h3>
   
-  ![view](https://user-images.githubusercontent.com/97468788/172727457-e509d802-3b2d-4b3c-8269-2c71cee96ea3.png)
+  ![view](https://user-images.githubusercontent.com/97468788/172998599-ce845a05-6d71-4b80-991c-0087501ac8ff.png)
 
 <h3> --> Favorites Page <-- </h3>
   
-  ![favorite](https://user-images.githubusercontent.com/97468788/172727474-d02280e2-6d9c-41bf-8846-cc1bc182257e.png)
+  ![favorite](https://user-images.githubusercontent.com/97468788/172998604-ca388625-b8af-46ef-8932-feb431fcd336.png)
